@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Resumé - Sunil Manandhar
+title: CV
 nav: true
 nav_order: 4
 cv_pdf: Sunil_Manandhar-Resume.pdf
